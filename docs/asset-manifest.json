@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.0f75b6be.css",
-    "main.js": "/static/js/main.00c5e6de.js",
-    "index.html": "/index.html",
-    "main.0f75b6be.css.map": "/static/css/main.0f75b6be.css.map",
-    "main.00c5e6de.js.map": "/static/js/main.00c5e6de.js.map"
+    "main.css": "/passing-data-with-global-state-management/static/css/main.0f75b6be.css",
+    "main.js": "/passing-data-with-global-state-management/static/js/main.00c5e6de.js",
+    "index.html": "/passing-data-with-global-state-management/index.html",
+    "main.0f75b6be.css.map": "/passing-data-with-global-state-management/static/css/main.0f75b6be.css.map",
+    "main.00c5e6de.js.map": "/passing-data-with-global-state-management/static/js/main.00c5e6de.js.map"
   },
   "entrypoints": [
     "static/css/main.0f75b6be.css",

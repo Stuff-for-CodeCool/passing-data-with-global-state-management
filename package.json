@@ -2,6 +2,7 @@
     "name": "pass-data",
     "version": "0.1.0",
     "private": true,
+    "homepage": "/passing-data-with-global-state-management",
     "dependencies": {
         "jotai": "^1.11.0",
         "react": "^18.2.0",
